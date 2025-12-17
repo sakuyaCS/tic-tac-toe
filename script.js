@@ -4,6 +4,10 @@ const gameboard = (function() {
 
     return {
 
+        placeMarker: function(position, marker) {
+
+        }
+            // fill in placeMarker function, check if specific position is empty
 
     }
 })();
